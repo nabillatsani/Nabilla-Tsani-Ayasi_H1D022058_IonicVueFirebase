@@ -4,6 +4,12 @@
 
 **Shift : F**
 
+## Tampilan Program
+![Screenshot 2024-11-21 223311](https://github.com/user-attachments/assets/659e6afd-7b62-4b2b-a7a7-1229a3f2f416)
+![Screenshot 2024-11-21 223316](https://github.com/user-attachments/assets/bbade4db-104f-466a-9679-3cc354b0eda1)
+![Screenshot 2024-11-21 223319](https://github.com/user-attachments/assets/abdbaaa5-1911-4cc2-a301-55a3a22f9b0e)
+
+
 ## Penjelasan Program
 Alur proses login menggunakan Firebase di aplikasi Ioni:
 
